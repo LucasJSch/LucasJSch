@@ -25,8 +25,8 @@ From coding low-level C routines, to solving high-level problems using the most 
 
 ## 🚀 Personal projects
 - [(WebGL & JavaScript) Spaceship navigation animation](https://github.com/LucasJSch/sistemas_graficos)
-- [(C++ & Docker) terrarium simulator](https://github.com/LucasJSch/terrarium_simulator/)
-- [(VHDL) CORDIC algorithm for FPGA](https://github.com/LucasJSch/cordic_vhdl)
+- [(C++ & Docker) Terrarium simulator](https://github.com/LucasJSch/terrarium_simulator/)
+- [(VHDL) 3D model rotator and display through VGA connector. Runs on a FPGA board](https://github.com/LucasJSch/vhdl_cordic_vga)
 
 
 ## Tech Stack
@@ -36,7 +36,6 @@ From coding low-level C routines, to solving high-level problems using the most 
 ## 📬 Get in Touch
 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/lucas-scheinkerman/)
-- Send me an email to lucas.scheinkerman@gmail.com
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
