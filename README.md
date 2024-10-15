@@ -10,7 +10,7 @@ complex systems design and implementation.
 
 From coding low-level C routines, to solving high-level problems using the most suitable data structures and algorithms, I find exciting each and everyone of the layers.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=lucasjsch&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<!-- ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=lucasjsch&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjsch&layout=compact&exclude_repo=cordic_vhdl,sisdig_final,digital_systems&size_weight=0.2&count_weight=0.8&hide=verilog,tcl,systemverilog,stata,forth&langs_count=6)
@@ -30,7 +30,7 @@ From coding low-level C routines, to solving high-level problems using the most 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,ros,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,ros,docker,androidstudio)](https://skillicons.dev)
 
 
 ## 📬 Get in Touch
