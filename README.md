@@ -1,5 +1,7 @@
 # Hi, I'm Lucas Scheinkerman! 👋
 
+[Check my online portfolio here!](https://lucasjsch.github.io/)
+
 I'm a passionate Software Engineer from Buenos Aires, Argentina.
 
 Currently working as Robotics Simulation Engineer @ [Unreal Empowerment](https://unrealempowerment.com/), helping to simulate the (yet) Unreal!
