@@ -4,7 +4,7 @@
 
 I'm a passionate Software Engineer from Buenos Aires, Argentina.
 
-Currently working as Robotics Simulation Engineer @ [Unreal Empowerment](https://unrealempowerment.com/), helping to simulate the (yet) Unreal!
+Currently working as a Computer Vision Engineer @ [Optriment](https://optriment.com/), developing CV pipelines to generate cool metrics from cameras!
 
 Always looking for new awesome technical challenges, eager to learn new things and do meaningful work that impacts positively in our world.
 I love to learn new stuff, understand how complex systems work, and transform theoretical ideas into real things. Translated into my work, I love all aspects of
@@ -20,7 +20,7 @@ From coding low-level C routines, to solving high-level problems using the most 
 
 ## :technologist: About Me
 
-- :robot: Robotics Simulation Engineer @ [Unreal Empowerment](https://unrealempowerment.com/)
+- 👨‍💻: Computer Vision Engineer @ [Optriment]([https://unrealempowerment.com/](https://optriment.com/))
 - 🔭 Working on my thesis for Electronics' Engineering degree @ University of Buenos Aires (UBA).
 - :musical_keyboard: I love playing piano, composing and living a musical life
 - :star_of_david: I'm a practicing jew
@@ -32,14 +32,14 @@ From coding low-level C routines, to solving high-level problems using the most 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,ros,docker,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,ros,docker,pytorch)](https://skillicons.dev)
 
 
 ## 📬 Get in Touch
 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/lucas-scheinkerman/)
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for stopping by! Let's connect and improve our world together. 🚀
 
 
 
