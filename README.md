@@ -26,6 +26,7 @@ From coding low-level C routines, to solving high-level problems using the most 
 - :star_of_david: I'm a practicing jew
 
 ## 🚀 Personal projects
+- [(Nvidia Deepstream & C++) Live people detection](https://github.com/LucasJSch/deepstream_challenge)
 - [(OpenCV, JavaScript & Python) Face blurring app](https://github.com/LucasJSch/face_blurring/)
 - [(WebGL & JavaScript) Spaceship navigation animation](https://github.com/LucasJSch/sistemas_graficos)
 - [(C++ & Docker) Terrarium simulator](https://github.com/LucasJSch/terrarium_simulator/)
