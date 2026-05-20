@@ -2,7 +2,7 @@
 
 I'm a passionate Software Engineer from Buenos Aires, Argentina.
 
-Currently working as a Robotics & AI Lead Engineer @ [IAMAI Simulations](https://iamaisim.com/), developing the fastest and easiest infrastructure to train, test, and validate drone autonomy systems.
+Currently working as a AI & Robotics Lead Engineer @ [IAMAI Simulations](https://iamaisim.com/), developing the fastest and easiest infrastructure to train, test, and validate drone autonomy systems.
 
 
 Always looking for new awesome technical challenges, eager to learn new things and do meaningful work that impacts positively in our world.
