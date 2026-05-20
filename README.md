@@ -1,16 +1,13 @@
 # Hi, I'm Lucas Scheinkerman! 👋
 
-[Check my online portfolio here!](https://lucasjsch.github.io/)
-
 I'm a passionate Software Engineer from Buenos Aires, Argentina.
 
-Currently working as a Computer Vision Engineer @ [Optriment](https://optriment.com/), developing CV pipelines to generate cool metrics from cameras!
+Currently working as a Robotics & AI Lead Engineer @ [IAMAI Simulations](https://iamaisim.com/), developing the fastest and easiest infrastructure to train, test, and validate drone autonomy systems.
+
 
 Always looking for new awesome technical challenges, eager to learn new things and do meaningful work that impacts positively in our world.
 I love to learn new stuff, understand how complex systems work, and transform theoretical ideas into real things. Translated into my work, I love all aspects of
 complex systems design and implementation.
-
-From coding low-level C routines, to solving high-level problems using the most suitable data structures and algorithms, I find exciting each and everyone of the layers.
 
 <!-- ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=lucasjsch&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
@@ -20,17 +17,13 @@ From coding low-level C routines, to solving high-level problems using the most 
 
 ## :technologist: About Me
 
-- 👨‍💻: Computer Vision Engineer @ [Optriment]([https://unrealempowerment.com/](https://optriment.com/))
-- 🔭 Working on my thesis for Electronics' Engineering degree @ University of Buenos Aires (UBA).
+- 👨‍💻:  Robotics & AI Lead Engineer @ [IAMAI Simulations](https://iamaisim.com/)
+- 🔭 Electronics' Engineer from University of Buenos Aires (UBA).
 - :musical_keyboard: I love playing piano, composing and living a musical life
 - :star_of_david: I'm a practicing jew
 
 ## 🚀 Personal projects
-- [(Nvidia Deepstream & C++) Live people detection](https://github.com/LucasJSch/deepstream_challenge)
-- [(OpenCV, JavaScript & Python) Face blurring app](https://github.com/LucasJSch/face_blurring/)
-- [(WebGL & JavaScript) Spaceship navigation animation](https://github.com/LucasJSch/sistemas_graficos)
-- [(C++ & Docker) Terrarium simulator](https://github.com/LucasJSch/terrarium_simulator/)
-- [(VHDL) 3D model rotator and display through VGA connector. Runs on a FPGA board](https://github.com/LucasJSch/vhdl_cordic_vga)
+- Main maintainer of [Project AirSim](https://github.com/iamaisim/ProjectAirSim).
 
 
 ## Tech Stack
