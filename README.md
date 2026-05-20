@@ -17,8 +17,8 @@ complex systems design and implementation.
 
 ## :technologist: About Me
 
-- 👨‍💻:  Robotics & AI Lead Engineer @ [IAMAI Simulations](https://iamaisim.com/)
-- 🔭 Electronics' Engineer from University of Buenos Aires (UBA).
+- 🤖 Robotics & AI Lead Engineer @ [IAMAI Simulations](https://iamaisim.com/)
+- :electron: Electronics' Engineer from University of Buenos Aires (UBA).
 - :musical_keyboard: I love playing piano, composing and living a musical life
 - :star_of_david: I'm a practicing jew
 
