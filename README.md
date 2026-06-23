@@ -23,7 +23,7 @@ complex systems design and implementation.
 - :star_of_david: I'm a practicing jew
 
 ## 🚀 Personal projects
-- I'm part of the main maintainers of [Project AirSim](https://github.com/iamaisim/ProjectAirSim).
+- I'm one of the main maintainers of [Project AirSim](https://github.com/iamaisim/ProjectAirSim).
 
 
 ## Tech Stack
